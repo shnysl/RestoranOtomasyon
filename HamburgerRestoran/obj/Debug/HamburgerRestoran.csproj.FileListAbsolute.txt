@@ -1,0 +1,40 @@
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.csprojAssemblyReference.cache
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Form1.resources
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Form2.resources
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Form3.resources
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Form4.resources
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.myMDIForm.resources
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Properties.Resources.resources
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.csproj.GenerateResource.cache
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\bin\Debug\HamburgerRestoran.exe.config
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\bin\Debug\HamburgerRestoran.exe
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\bin\Debug\HamburgerRestoran.pdb
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.exe
+C:\Users\sahin\source\repos\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.pdb
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\bin\Debug\HamburgerRestoran.exe.config
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\bin\Debug\HamburgerRestoran.exe
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\bin\Debug\HamburgerRestoran.pdb
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.csprojAssemblyReference.cache
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Form1.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Form2.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Form3.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Form4.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.myMDIForm.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Properties.Resources.resources
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.csproj.GenerateResource.cache
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.exe
+C:\Users\sahin\OneDrive\Masaüstü\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.pdb
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\bin\Debug\HamburgerRestoran.exe.config
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\bin\Debug\HamburgerRestoran.exe
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\bin\Debug\HamburgerRestoran.pdb
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.csprojAssemblyReference.cache
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Form1.resources
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Form2.resources
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Form3.resources
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Form4.resources
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.myMDIForm.resources
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.Properties.Resources.resources
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.csproj.GenerateResource.cache
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.csproj.CoreCompileInputs.cache
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.exe
+E:\C# Kursu\PROJELER\HamburgerRestoran\HamburgerRestoran\obj\Debug\HamburgerRestoran.pdb
